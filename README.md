@@ -1,0 +1,1 @@
+# uat-fixture-static
